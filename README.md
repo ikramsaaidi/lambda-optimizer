@@ -33,15 +33,15 @@
 ## 📸 Captures d'écran
 
 ### Interface principale
-> ![Interface principale](screenshots/main.png)
+> ![Interface principale](screenshots/main.PNG)
 
 ### Étapes de réduction β pas-à-pas
-> *![Étapes de réduction](screenshots/steps.png)*
+> *![Étapes de réduction](screenshots/steps.PNG)*
 
 ### Métriques d'optimisation avant / après
-> ![Métriques](screenshots/metrics.png)
+> ![Métriques](screenshots/metrics.PNG)
 ### Arbre syntaxique (AST) Graphviz
-> *![Arbre syntaxique](screenshots/ast.png)*
+> *![Arbre syntaxique](screenshots/ast.PNG)*
 
 ---
 
