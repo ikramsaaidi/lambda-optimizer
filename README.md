@@ -245,6 +245,6 @@ Ce projet est distribué sous licence **MIT**. Voir le fichier [LICENSE](LICENSE
 
 **λ LAMBDA OPTIMIZER** — *Simplifier pour mieux calculer*
 
-Réalisé avec ❤️ par **Ikram** — 2025-2026
+Réalisé avec ❤️ par **Ikram saaidi** — 2025-2026
 
 </div>
